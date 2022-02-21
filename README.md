@@ -18,7 +18,16 @@
   
 ### Advent of Code
 <p>
-  <img src="https://img.shields.io/badge/2015-25/25-brightgreen?logo=javascript"/>
-  <img src="https://img.shields.io/badge/2016-25/25-brightgreen?logo=go"/>
-  <img src="https://img.shields.io/badge/2021-25/25-brightgreen?logo=kotlin"/>
+  <a href="https://github.com/ceribe/advent-of-code-2015">
+    <img src="https://img.shields.io/badge/2015-25/25-brightgreen?logo=javascript"/>
+  </a>
+  <a href="https://github.com/ceribe/advent-of-code-2016">
+    <img src="https://img.shields.io/badge/2016-25/25-brightgreen?logo=go"/>
+  </a>
+   <a href="https://github.com/ceribe/advent-of-code-2017">
+    <img src="https://img.shields.io/badge/2017-In Progress-red?logo=ruby&logoColor=CC342D"/>
+  </a>
+  <a href="https://github.com/ceribe/advent-of-code-2021">
+    <img src="https://img.shields.io/badge/2021-25/25-brightgreen?logo=kotlin"/>
+  </a>
 </p>
