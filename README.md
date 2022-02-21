@@ -11,6 +11,14 @@
 </p>
 
 ## Coding Challenges
+### Codewars
   <a href="https://www.codewars.com/users/ceribe">
-    <img src="https://www.codewars.com/users/ceribe/badges/large">
+    <img src="https://www.codewars.com/users/ceribe/badges/large"/>
   </a>
+  
+### Advent of Code
+<p>
+  <img src="https://img.shields.io/badge/2015-25/25-brightgreen?logo=javascript"/>
+  <img src="https://img.shields.io/badge/2016-25/25-brightgreen?logo=go"/>
+  <img src="https://img.shields.io/badge/2021-25/25-brightgreen?logo=kotlin"/>
+</p>
