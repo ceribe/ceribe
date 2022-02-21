@@ -17,7 +17,7 @@
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-444444.svg?logo=javascript"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0.svg?logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ACeribe+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ACeribe+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
 
 ### Favourite
 <p>
