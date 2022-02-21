@@ -31,12 +31,7 @@
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
 
-## 💻 Coding Challenges
-### Codewars
-  <a href="https://www.codewars.com/users/ceribe">
-    <img src="https://www.codewars.com/users/ceribe/badges/large"/>
-  </a>
-  
+## 💻 Coding Challenges  
 ### Advent of Code
 <p>
   <a href="https://github.com/ceribe/advent-of-code-2015">
@@ -52,6 +47,11 @@
     <img src="https://img.shields.io/badge/2021-25/25-brightgreen?logo=kotlin"/>
   </a>
 </p>
+
+### Codewars
+  <a href="https://www.codewars.com/users/ceribe">
+    <img src="https://www.codewars.com/users/ceribe/badges/large"/>
+  </a>
 
 ### Other
 <a href="https://py.checkio.org/user/SzOp/"><img alt="Checkio" src="https://img.shields.io/badge/Checkio-00599C.svg?style=for-the-badge"></a>
