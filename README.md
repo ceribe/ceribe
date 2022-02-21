@@ -23,6 +23,7 @@
 <p>
   <a href="https://kotlinlang.org/"><img src="assets/kotlin_icon.png" width="64"/></a>
   <a href="https://developer.android.com/jetpack/compose"><img src="assets/jetpack_compose_icon.png" width="64"/></a>
+  <a href="https://www.gitkraken.com/"><img src="assets/gitkraken_icon.png" width="64"/></a>
 </p>
 
 ## 🔗 Profiles
