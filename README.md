@@ -54,6 +54,6 @@
   </a>
 
 ### Other
-<a href="https://py.checkio.org/user/SzOp/"><img alt="Checkio" src="https://img.shields.io/badge/Checkio-00599C.svg?style=for-the-badge"></a>
-<a href="https://www.codingame.com/profile/1cfe9537575846bfec71c3ecf951d2011143292"><img alt="CodinGame" src="https://img.shields.io/badge/CodinGame-f7c740.svg?style=for-the-badge"></a>
-<a href="https://leetcode.com/ceribe/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-de9031.svg?style=for-the-badge"></a>
+<a href="https://py.checkio.org/user/SzOp/"><img src="assets/checkio_icon.png" width="64"/></a>
+<a href="https://www.codingame.com/profile/1cfe9537575846bfec71c3ecf951d2011143292"><img src="assets/codingame_icon.png" width="64"/></a>
+<a href="https://leetcode.com/ceribe/"><img src="assets/leetcode_icon.png" width="64"></a>
