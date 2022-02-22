@@ -62,3 +62,4 @@
 <a href="https://py.checkio.org/user/SzOp/"><img src="assets/checkio_icon.png" width="64"/></a>
 <a href="https://www.codingame.com/profile/1cfe9537575846bfec71c3ecf951d2011143292"><img src="assets/codingame_icon.png" width="64"/></a>
 <a href="https://leetcode.com/ceribe/"><img src="assets/leetcode_icon.png" width="64"></a>
+<a href="https://www.hackerrank.com/ceribekagami?hr_r=1"><img src="assets/hackerrank_icon.png" width="64"></a>
