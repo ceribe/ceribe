@@ -28,8 +28,12 @@
 
 ## 🔗 Profiles
 <a href="https://stackoverflow.com/users/13512978/ceribe">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Stack%20Overflow-444444?style=for-the-badge&logo=stack-overflow"/>
 </a>
+<a href="https://play.google.com/store/apps/dev?id=7933995586938920136">
+  <img src="https://img.shields.io/badge/-Android%20Developer-444444?style=for-the-badge&logo=android"/>
+</a>
+
 
 ## 💻 Coding Challenges  
 ### Advent of Code
