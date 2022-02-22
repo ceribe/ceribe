@@ -52,6 +52,11 @@
   <a href="https://www.codewars.com/users/ceribe">
     <img src="https://www.codewars.com/users/ceribe/badges/large"/>
   </a>
+  
+### Project Euler
+<a href="https://projecteuler.net/about">
+  <img src="https://projecteuler.net/profile/Ceribe.png" width="250"/>
+</a>
 
 ### Other
 <a href="https://py.checkio.org/user/SzOp/"><img src="assets/checkio_icon.png" width="64"/></a>
