@@ -18,18 +18,34 @@
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-444444.svg?logo=go"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-444444.svg?logo=python"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-444444.svg?logo=c%2B%2B&logoColor=138de8"></a>
+<a href="https://github.com/search?q=user%3ACeribe+language%3ASQL"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-444444.svg?logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ACeribe+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-444444.svg?logo=HTML5&logoColor=E34F26"></a>
 
-<!-- ### Frameworks & Libraries
-Jetpack Compose, OpenGL, Three.js, WPF
+### Frameworks & Libraries
+<p>
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-444444.svg?logo=JetpackCompose&logoColor=4285F4">
+  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-444444.svg?logo=OpenGL&logoColor=5586A4">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-444444.svg?logo=Three.js&logoColor=000000">
+</p>
 
 ### IDEs
-InteliJ, Android Studio, Visual Studio Code, Visual Studio, C++Builder
+<p>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-444444.svg?logo=IntelliJIDEA&logoColor=000000">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-444444.svg?logo=AndroidStudio&logoColor=3DDC84">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-444444.svg?logo=VisualStudio&logoColor=5C2D91">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-444444.svg?logo=VisualStudioCode&logoColor=007ACC">
+  <img alt="C++Builder" src="https://img.shields.io/badge/C++Builder-444444.svg?logo=Embarcadero&logoColor=ED1F35">
+</p>
 
-### Software & Tools 
-Gitkraken, SourceTree, OBS, Git, LaTeX, Markdown
-
-i do langów SQL
--->
+### Software & Tools
+<p>
+  <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-444444.svg?logo=GitKraken&logoColor=179287">
+  <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-444444.svg?logo=Sourcetree&logoColor=0052CC">
+  <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-444444.svg?logo=OBSStudio&logoColor=302E31">
+  <img alt="Git" src="https://img.shields.io/badge/Git-444444.svg?logo=Git&logoColor=F05032">
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-444444.svg?logo=LaTeX&logoColor=008080">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444444.svg?logo=Markdown&logoColor=000000">
+</p>
 
 ### Favourite
 <p>
