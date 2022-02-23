@@ -19,6 +19,18 @@
 <a href="https://github.com/search?q=user%3ACeribe+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-444444.svg?logo=python"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-444444.svg?logo=c%2B%2B&logoColor=138de8"></a>
 
+<!-- ### Frameworks & Libraries
+Jetpack Compose, OpenGL, Three.js, WPF
+
+### IDEs
+InteliJ, Android Studio, Visual Studio Code, Visual Studio, C++Builder
+
+### Software & Tools 
+Gitkraken, SourceTree, OBS, Git, LaTeX, Markdown
+
+i do langów SQL
+-->
+
 ### Favourite
 <p>
   <a href="https://kotlinlang.org/"><img src="assets/kotlin_icon.png" width="64"/></a>
