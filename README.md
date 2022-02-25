@@ -37,7 +37,7 @@
   <img alt="C++Builder" src="https://img.shields.io/badge/C++Builder-444444.svg?logo=Embarcadero&logoColor=ED1F35">
 </p>
 
-### Software & Tools
+### Software & Tools & Other
 <p>
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-444444.svg?logo=GitKraken&logoColor=179287">
   <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-444444.svg?logo=Sourcetree&logoColor=0052CC">
@@ -45,6 +45,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-444444.svg?logo=Git&logoColor=F05032">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-444444.svg?logo=LaTeX&logoColor=008080">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444444.svg?logo=Markdown&logoColor=000000">
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-444444.svg?logo=Prettier&logoColor=F7B93E">
 </p>
 
 ### Favourite
