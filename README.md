@@ -28,6 +28,7 @@
 <p>
   <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-444444.svg?logo=JetpackCompose&logoColor=4285F4">
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-444444.svg?logo=Svelte&logoColor=FF3E00">
+  <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-444444.svg?logo=Svelte&logoColor=FF3E00">
   <img alt="Svelte Cubed" src="https://img.shields.io/badge/Svelte%20Cubed-444444.svg?logo=Svelte&logoColor=FF3E00">
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-444444.svg?logo=Three.js&logoColor=000000">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-444444.svg?logo=TailwindCSS&logoColor=06B6D4">
