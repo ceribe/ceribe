@@ -14,8 +14,8 @@
 ### Languages
 <a href="https://github.com/search?q=user%3ACeribe+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-444444.svg?logo=Kotlin"></a>
 <a href="https://github.com/search?q=user%3ACeribe1+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-444444.svg?logo=ruby&logoColor=CC342D"></a>
-<a href="https://github.com/search?q=user%3ACeribe+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-444444.svg?logo=typescript"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-444444.svg?logo=javascript"></a>
+<a href="https://github.com/search?q=user%3ACeribe+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-444444.svg?logo=typescript"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-444444.svg?logo=go"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-444444.svg?logo=python"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-444444.svg?logo=c%2B%2B&logoColor=138de8"></a>
@@ -37,10 +37,10 @@
 
 ### IDEs
 <p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-444444.svg?logo=VisualStudioCode&logoColor=007ACC">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-444444.svg?logo=IntelliJIDEA&logoColor=000000">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-444444.svg?logo=AndroidStudio&logoColor=3DDC84">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-444444.svg?logo=VisualStudio&logoColor=5C2D91">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-444444.svg?logo=VisualStudioCode&logoColor=007ACC">
   <img alt="C++Builder" src="https://img.shields.io/badge/C++Builder-444444.svg?logo=Embarcadero&logoColor=ED1F35">
 </p>
 
