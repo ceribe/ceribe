@@ -19,6 +19,7 @@
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-444444.svg?logo=go"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-444444.svg?logo=python"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-444444.svg?logo=c%2B%2B&logoColor=138de8"></a>
+<a href="https://github.com/search?q=user%3ACeribe+language%3Aocaml"><img alt="OCaml" src="https://img.shields.io/badge/OCaml-444444.svg?logo=ocaml&logoColor=EC6813"></a>
 
 <a href="https://github.com/search?q=user%3ACeribe+language%3ASQL"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-444444.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-444444.svg?logo=HTML5&logoColor=E34F26"></a>
