@@ -82,7 +82,7 @@
     <img src="https://img.shields.io/badge/2016-25/25-brightgreen?logo=go"/>
   </a>
    <a href="https://github.com/ceribe/advent-of-code-2017">
-    <img src="https://img.shields.io/badge/2017-In Progress-red?logo=ruby&logoColor=CC342D"/>
+    <img src="https://img.shields.io/badge/2017-25/25-brightgreen?logo=ruby&logoColor=CC342D"/>
   </a>
   <a href="https://github.com/ceribe/advent-of-code-2018">
     <img src="https://img.shields.io/badge/2018-In Progress-red?logo=dart&logoColor=0175C2"/>
