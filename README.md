@@ -14,10 +14,10 @@
 ### Languages
 <a href="https://github.com/search?q=user%3ACeribe+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-444444.svg?logo=Kotlin"></a>
 <a href="https://github.com/search?q=user%3ACeribe1+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-444444.svg?logo=ruby&logoColor=CC342D"></a>
+<a href="https://github.com/search?q=user%3ACeribe+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-444444.svg?logo=dart&logoColor=0175C2"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-444444.svg?logo=javascript"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-444444.svg?logo=typescript"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-444444.svg?logo=go"></a>
-<a href="https://github.com/search?q=user%3ACeribe+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-444444.svg?logo=dart&logoColor=0175C2"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-444444.svg?logo=python"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-444444.svg?logo=c%2B%2B&logoColor=138de8"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Aocaml"><img alt="OCaml" src="https://img.shields.io/badge/OCaml-444444.svg?logo=ocaml&logoColor=EC6813"></a>
