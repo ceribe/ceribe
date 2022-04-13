@@ -51,6 +51,7 @@
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-444444.svg?logo=GitKraken&logoColor=179287">
   <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-444444.svg?logo=Sourcetree&logoColor=0052CC">
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-444444.svg?logo=OBSStudio&logoColor=302E31">
+  <img alt="GIMP" src="https://img.shields.io/badge/GIMP-444444.svg?logo=GIMP&logoColor=000000">
   <img alt="Git" src="https://img.shields.io/badge/Git-444444.svg?logo=Git&logoColor=F05032">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-444444.svg?logo=LaTeX&logoColor=008080">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444444.svg?logo=Markdown&logoColor=000000">
