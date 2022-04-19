@@ -58,13 +58,6 @@
   <img alt="Surge" src="https://img.shields.io/badge/Surge-444444.svg?logo=Surge&logoColor=000000">
 </p>
 
-### Favourite
-<p>
-  <a href="https://kotlinlang.org/"><img src="assets/kotlin_icon.png" width="64"/></a>
-  <a href="https://developer.android.com/jetpack/compose"><img src="assets/jetpack_compose_icon.png" width="64"/></a>
-  <a href="https://www.gitkraken.com/"><img src="assets/gitkraken_icon.png" width="64"/></a>
-</p>
-
 ## 🔗 Profiles
 <a href="https://stackoverflow.com/users/13512978/ceribe">
   <img src="https://img.shields.io/badge/-Stack%20Overflow-444444?style=for-the-badge&logo=stack-overflow"/>
