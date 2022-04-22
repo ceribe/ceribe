@@ -25,6 +25,8 @@
 <a href="https://github.com/search?q=user%3ACeribe+language%3ASQL"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-444444.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-444444.svg?logo=HTML5&logoColor=E34F26"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-444444.svg?logo=CSS3&logoColor=1572B6"></a>
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-444444.svg?logo=LaTeX&logoColor=008080">
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-444444.svg?logo=Markdown&logoColor=000000">
 
 ### Frameworks & Libraries
 <p>
@@ -57,8 +59,6 @@
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-444444.svg?logo=OBSStudio&logoColor=302E31">
   <img alt="GIMP" src="https://img.shields.io/badge/GIMP-444444.svg?logo=GIMP&logoColor=000000">
   <img alt="Git" src="https://img.shields.io/badge/Git-444444.svg?logo=Git&logoColor=F05032">
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-444444.svg?logo=LaTeX&logoColor=008080">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444444.svg?logo=Markdown&logoColor=000000">
   <img alt="Surge" src="https://img.shields.io/badge/Surge-444444.svg?logo=Surge&logoColor=000000">
   <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-444444.svg?logo=Bitbucket&logoColor=0052CC">
 </p>
