@@ -35,6 +35,9 @@
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-444444.svg?logo=Three.js&logoColor=000000">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-444444.svg?logo=TailwindCSS&logoColor=06B6D4">
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-444444.svg?logo=OpenGL&logoColor=5586A4">
+  <img alt="Ktor" src="https://img.shields.io/badge/Ktor-444444.svg?logo=Ktor&logoColor=5586A4">
+  <img alt="ZeroMQ" src="https://img.shields.io/badge/ZeroMQ-444444.svg?logo=ZeroMQ&logoColor=DF0000">
+  <img alt="Bogue" src="https://img.shields.io/badge/Bogue-444444.svg?logo=Bogue&logoColor=5586A4">
 </p>
 
 ### IDEs
@@ -42,6 +45,7 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-444444.svg?logo=VisualStudioCode&logoColor=007ACC">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-444444.svg?logo=IntelliJIDEA&logoColor=000000">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-444444.svg?logo=AndroidStudio&logoColor=3DDC84">
+  <img alt="Goland" src="https://img.shields.io/badge/Goland-444444.svg?logo=Goland&logoColor=000000">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-444444.svg?logo=VisualStudio&logoColor=5C2D91">
   <img alt="C++Builder" src="https://img.shields.io/badge/C++Builder-444444.svg?logo=Embarcadero&logoColor=ED1F35">
 </p>
@@ -56,6 +60,7 @@
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-444444.svg?logo=LaTeX&logoColor=008080">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444444.svg?logo=Markdown&logoColor=000000">
   <img alt="Surge" src="https://img.shields.io/badge/Surge-444444.svg?logo=Surge&logoColor=000000">
+  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-444444.svg?logo=Bitbucket&logoColor=0052CC">
 </p>
 
 ## 🔗 Profiles
