@@ -27,6 +27,7 @@
 <a href="https://github.com/search?q=user%3ACeribe+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-444444.svg?logo=CSS3&logoColor=1572B6"></a>
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-444444.svg?logo=LaTeX&logoColor=008080">
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444444.svg?logo=Markdown&logoColor=000000">
+<img alt="Makefile" src="https://img.shields.io/badge/Makefile-444444.svg?logo=Makefile&logoColor=000000">
 
 ### Frameworks & Libraries
 <p>
@@ -40,6 +41,7 @@
   <img alt="Ktor" src="https://img.shields.io/badge/Ktor-444444.svg?logo=Ktor&logoColor=5586A4">
   <img alt="ZeroMQ" src="https://img.shields.io/badge/ZeroMQ-444444.svg?logo=ZeroMQ&logoColor=DF0000">
   <img alt="Bogue" src="https://img.shields.io/badge/Bogue-444444.svg?logo=Bogue&logoColor=5586A4">
+  <img alt="Protocol Buffers" src="https://img.shields.io/badge/Protocol%20Buffers-444444.svg?logo=ProtocolBuffers&logoColor=5586A4">
 </p>
 
 ### IDEs
@@ -61,6 +63,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-444444.svg?logo=Git&logoColor=F05032">
   <img alt="Surge" src="https://img.shields.io/badge/Surge-444444.svg?logo=Surge&logoColor=000000">
   <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-444444.svg?logo=Bitbucket&logoColor=0052CC">
+  <img alt="MantisBT" src="https://img.shields.io/badge/MantisBT-444444.svg?logo=MantisBT&logoColor=0052CC">
 </p>
 
 ## 🔗 Profiles
