@@ -19,8 +19,7 @@
 <a href="https://github.com/search?q=user%3ACeribe+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-444444.svg?logo=typescript"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-444444.svg?logo=go"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-444444.svg?logo=python"></a>
-<a href="https://github.com/search?q=user%3ACeribe+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-444444.svg?logo=c%2B%2B&logoColor=138de8"></a>
-<a href="https://github.com/search?q=user%3ACeribe+language%3Aocaml"><img alt="OCaml" src="https://img.shields.io/badge/OCaml-444444.svg?logo=ocaml&logoColor=EC6813"></a>
+<a href="https://github.com/search?q=user%3ACeribe+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C++-444444.svg?logo=c%2B%2B&logoColor=138de8">
 
 <a href="https://github.com/search?q=user%3ACeribe+language%3ASQL"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-444444.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-444444.svg?logo=HTML5&logoColor=E34F26"></a>
@@ -40,7 +39,6 @@
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-444444.svg?logo=OpenGL&logoColor=5586A4">
   <img alt="Ktor" src="https://img.shields.io/badge/Ktor-444444.svg?logo=Ktor&logoColor=5586A4">
   <img alt="ZeroMQ" src="https://img.shields.io/badge/ZeroMQ-444444.svg?logo=ZeroMQ&logoColor=DF0000">
-  <img alt="Bogue" src="https://img.shields.io/badge/Bogue-444444.svg?logo=Bogue&logoColor=5586A4">
   <img alt="Protocol Buffers" src="https://img.shields.io/badge/Protocol%20Buffers-444444.svg?logo=ProtocolBuffers&logoColor=5586A4">
 </p>
 
