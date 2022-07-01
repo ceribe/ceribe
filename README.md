@@ -76,21 +76,11 @@
 ## 💻 Coding Challenges  
 ### Advent of Code
 <p>
-  <a href="https://github.com/ceribe/advent-of-code-2015">
     <img src="https://img.shields.io/badge/2015-25/25-brightgreen?logo=javascript"/>
-  </a>
-  <a href="https://github.com/ceribe/advent-of-code-2016">
     <img src="https://img.shields.io/badge/2016-25/25-brightgreen?logo=go"/>
-  </a>
-   <a href="https://github.com/ceribe/advent-of-code-2017">
     <img src="https://img.shields.io/badge/2017-25/25-brightgreen?logo=ruby&logoColor=CC342D"/>
-  </a>
-  <a href="https://github.com/ceribe/advent-of-code-2018">
     <img src="https://img.shields.io/badge/2018-In Progress-red?logo=dart&logoColor=0175C2"/>
-  </a>
-  <a href="https://github.com/ceribe/advent-of-code-2021">
     <img src="https://img.shields.io/badge/2021-25/25-brightgreen?logo=kotlin"/>
-  </a>
 </p>
 
 ### Codewars
