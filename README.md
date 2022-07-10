@@ -80,6 +80,7 @@
     <img src="https://img.shields.io/badge/2016-25/25-brightgreen?logo=go"/>
     <img src="https://img.shields.io/badge/2017-25/25-brightgreen?logo=ruby&logoColor=CC342D"/>
     <img src="https://img.shields.io/badge/2018-In Progress-red?logo=dart&logoColor=0175C2"/>
+    <img src="https://img.shields.io/badge/2020-In Progress-red?logo=swift&logoColor=F05138"/>
     <img src="https://img.shields.io/badge/2021-25/25-brightgreen?logo=kotlin"/>
 </p>
 
