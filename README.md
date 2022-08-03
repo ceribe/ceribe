@@ -1,7 +1,7 @@
 ## 📈 Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-ceribe.vercel.app/api/top-langs/?username=ceribe&layout=compact&theme=material-palenight&langs_count=100"/>
+    <img src="https://github-readme-stats-ceribe.vercel.app/api/top-langs/?username=ceribe&layout=compact&theme=material-palenight&langs_count=100&exclude_repo=kagami-mtg-inspired-mod"/>
   </a>
   </br>
   <a href="https://git.io/streak-stats">
