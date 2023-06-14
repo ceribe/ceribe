@@ -10,7 +10,7 @@
   </br>
 </p>
 
-## ⚙️ Favourite tools
+## 🔥 Favourite tools
 
 TODO
 
