@@ -10,9 +10,13 @@
   </br>
 </p>
 
-## ⚙️ Technology
+## ⚙️ Favourite tools
 
-Maintaining 2 lists at the same time makes no sense. List is [here](https://szymon-opielewicz.surge.sh/skills).
+TODO
+
+## ⚙️ Other tools I'm familiar with
+
+TODO
 
 ## 🔗 Profiles
 <a href="https://stackoverflow.com/users/13512978/ceribe">
