@@ -16,7 +16,6 @@
 <a href="https://github.com/search?q=user%3ACeribe+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-444444.svg?logo=typescript"></a>
 <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-444444.svg?logo=JetpackCompose&logoColor=4285F4">
 <img alt="Svelte" src="https://img.shields.io/badge/Svelte-444444.svg?logo=Svelte&logoColor=FF3E00">
-<img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-444444.svg?logo=Svelte&logoColor=FF3E00">
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-444444.svg?logo=IntelliJIDEA&logoColor=000000">
 <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-444444.svg?logo=AndroidStudio&logoColor=3DDC84">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-444444.svg?logo=VisualStudioCode&logoColor=007ACC">
