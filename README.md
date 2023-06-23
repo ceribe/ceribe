@@ -46,6 +46,7 @@
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-444444.svg?logo=VisualStudio&logoColor=5C2D91">
 <img alt="C++Builder" src="https://img.shields.io/badge/C++Builder-444444.svg?logo=Embarcadero&logoColor=ED1F35">
 <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-444444.svg?logo=Sourcetree&logoColor=0052CC">
+<img alt="BitBucket" src="https://img.shields.io/badge/BitBucket-444444.svg?logo=bitbucket&logoColor=0052CC">
 <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-444444.svg?logo=OBSStudio&logoColor=302E31">
 <img alt="GIMP" src="https://img.shields.io/badge/GIMP-444444.svg?logo=GIMP&logoColor=000000">
 <img alt="Git" src="https://img.shields.io/badge/Git-444444.svg?logo=Git&logoColor=F05032">
