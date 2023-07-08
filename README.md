@@ -40,7 +40,6 @@
 <img alt="Makefile" src="https://img.shields.io/badge/Makefile-444444.svg?logo=Makefile&logoColor=000000">
 
 <a></a>
-<img alt="Goland" src="https://img.shields.io/badge/Goland-444444.svg?logo=Goland&logoColor=000000">
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-444444.svg?logo=VisualStudio&logoColor=5C2D91">
 <img alt="C++Builder" src="https://img.shields.io/badge/C++Builder-444444.svg?logo=Embarcadero&logoColor=ED1F35">
 
@@ -60,14 +59,15 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-444444.svg?logo=Git&logoColor=F05032">
 
 <a></a>
-<img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-444444.svg?logo=OBSStudio&logoColor=302E31">
-<img alt="Surge" src="https://img.shields.io/badge/Surge-444444.svg?logo=Surge&logoColor=000000">
-<img alt="Netlify" src="https://img.shields.io/badge/Netlify-444444.svg?logo=netlify&logoColor=00C7B7">
-<img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-444444.svg?logo=Bitbucket&logoColor=0052CC">
-<img alt="MantisBT" src="https://img.shields.io/badge/MantisBT-444444.svg?logo=MantisBT&logoColor=0052CC">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-444444.svg?logo=linux&logoColor=FCC624">
 <img alt="Terraform" src="https://img.shields.io/badge/Terraform-444444.svg?logo=Terraform&logoColor=7B42BC">
 <img alt="Azure" src="https://img.shields.io/badge/Azure-444444.svg?logo=microsoftazure&logoColor=0078D7">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-444444.svg?logo=docker&logoColor=2496ED">
+<img alt="Surge" src="https://img.shields.io/badge/Surge-444444.svg?logo=Surge&logoColor=000000">
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-444444.svg?logo=netlify&logoColor=00C7B7">
+<img alt="MantisBT" src="https://img.shields.io/badge/MantisBT-444444.svg?logo=MantisBT&logoColor=0052CC">
+<img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-444444.svg?logo=OBSStudio&logoColor=302E31">
+<img alt="Defold" src="https://img.shields.io/badge/Defold-444444.svg?logo=defold&logoColor=2496ED">
 
 ## 🔗 Profiles
 <a href="https://stackoverflow.com/users/13512978/ceribe">
