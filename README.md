@@ -24,6 +24,7 @@
 ## ⚙️ Other tools I'm familiar with
 
 <a href="https://simpleicons.org/"></a>
+<img alt="Java" src="https://img.shields.io/badge/Java-444444.svg?logo=java">
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-444444.svg?logo=ruby&logoColor=CC342D">
 <img alt="Dart" src="https://img.shields.io/badge/Dart-444444.svg?logo=dart&logoColor=0175C2">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-444444.svg?logo=javascript">
