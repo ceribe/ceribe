@@ -14,6 +14,7 @@
 
 <a href="https://github.com/search?q=user%3ACeribe+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-444444.svg?logo=Kotlin"></a>
 <a href="https://github.com/search?q=user%3ACeribe+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-444444.svg?logo=typescript"></a>
+<img alt="C#" src="https://img.shields.io/badge/C%23-444444.svg?logo=csharp&logoColor=239120">
 <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-444444.svg?logo=JetpackCompose&logoColor=4285F4">
 <img alt="Svelte" src="https://img.shields.io/badge/Svelte-444444.svg?logo=Svelte&logoColor=FF3E00">
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-444444.svg?logo=IntelliJIDEA&logoColor=000000">
