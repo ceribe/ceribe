@@ -1,3 +1,5 @@
+Most of the repositories you can find here are my university projects.
+
 ## 📈 Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
